@@ -19,7 +19,6 @@ cffi==1.14.5
 chardet==3.0.4
 Click==7.0
 cloudpickle==1.6.0
-coverage==3.7.1
 cycler==0.10.0
 Cython==0.29.23
 entrypoints==0.3
@@ -41,11 +40,6 @@ jupyterlab==3.0.15
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.5.2
 jupyterlab-widgets==1.0.0
-keyring==18.0.1
-lazr.restfulclient==0.14.2
-lazr.uri==1.0.3
-libvirt-python==6.1.0
-llvmlite==0.36.0
 lxml==4.6.3
 Mako==1.1.0
 Markdown==3.3.4
