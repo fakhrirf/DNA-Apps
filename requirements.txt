@@ -132,9 +132,6 @@ tornado==6.1
 tqdm==4.60.0
 traitlets==5.0.5
 typing-extensions==3.7.4.3
-urllib3==1.25.8
-usb-creator==0.3.7
-validators==0.18.2
 virtualenv==20.4.4
 watchdog==2.1.1
 wcwidth==0.2.5
